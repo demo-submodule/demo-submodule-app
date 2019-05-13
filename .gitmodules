@@ -1,0 +1,9 @@
+[submodule "demo-submodule-lib"]
+	path = demo-submodule-lib
+	url = git@github.com:demo-submodule/demo-submodule-lib.git
+[submodule "demo-submodule-svc1"]
+	path = demo-submodule-svc1
+	url = git@github.com:demo-submodule/demo-submodule-svc1.git
+[submodule "demo-submodule-svc2"]
+	path = demo-submodule-svc2
+	url = git@github.com:demo-submodule/demo-submodule-svc2.git

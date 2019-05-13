@@ -1,0 +1,6 @@
+
+rootProject.name = 'demo-submodule-app'
+
+include 'demo-submodule-lib'
+include 'demo-submodule-svc1'
+include 'demo-submodule-svc2'
